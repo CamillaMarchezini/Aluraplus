@@ -6,17 +6,17 @@
     --font-principal: "Inter";
 }
 
-* {
-    margin: 0;
-    padding: 0;
-}
-
 body {
    background-color: var(--cor-1);
    color: var(--cor-principal);
    font-family: var(--font-principal);
    font-size: 16px;
    font-weight: 400;
+}
+
+* {
+    margin: 0;
+    padding: 0;
 }
 
 .principal {
