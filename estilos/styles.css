@@ -20,6 +20,7 @@ body {
 }
 
 .principal {
+    height: 100vh;
     background-image: url("imagens/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
